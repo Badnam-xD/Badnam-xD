@@ -14,8 +14,4 @@ Other thing you need to know:
 [![NOICE](https://github-readme-stats.vercel.app/api/top-langs/?username=levina-lab&layout=compact&theme=midnight-purple&hide=Css)](https://github.com/Badnam-xD)
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=levina-lab)
-# My Stuffs:~
 
-- Termux 😂
-- PyCharm 😳
-- Visual Studio Code 😎
